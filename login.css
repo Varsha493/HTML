@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(167, 254, 254);
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.main-class{
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    border-color: black ;
+    border-style: solid;
+}
+
+
+.btn{
+    margin-left: 32%;
+    height: 35px;
+    width: 70px;
+}
+
+
